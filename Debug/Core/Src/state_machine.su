@@ -1,0 +1,10 @@
+../Core/Src/state_machine.c:22:9:button_handle	16	static
+../Core/Src/state_machine.c:37:6:Read_Alaram	32	static
+../Core/Src/state_machine.c:88:6:mode_default	16	static
+../Core/Src/state_machine.c:107:6:machine_case_0	24	static
+../Core/Src/state_machine.c:156:6:machine_case_1	32	static
+../Core/Src/state_machine.c:199:6:machine_case_2	32	static
+../Core/Src/state_machine.c:243:6:machine_case_3	32	static
+../Core/Src/state_machine.c:289:6:machine_case_4	40	static
+../Core/Src/state_machine.c:341:6:machine_case_5	32	static
+../Core/Src/state_machine.c:385:6:machine_case_6	32	static

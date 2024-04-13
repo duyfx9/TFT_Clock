@@ -1,0 +1,12 @@
+../Core/Src/DS3231.c:6:9:decToBcd	1
+../Core/Src/DS3231.c:12:9:bcdToDec	1
+../Core/Src/DS3231.c:17:9:Set_bit	1
+../Core/Src/DS3231.c:22:9:Clear_bit	1
+../Core/Src/DS3231.c:28:6:Set_bit_move_1	1
+../Core/Src/DS3231.c:36:6:Set_bit_move_0	1
+../Core/Src/DS3231.c:45:6:Set_Time	1
+../Core/Src/DS3231.c:59:6:Get_Time	1
+../Core/Src/DS3231.c:72:15:cancel_alaram_1	1
+../Core/Src/DS3231.c:78:15:cancel_alaram_2	1
+../Core/Src/DS3231.c:84:15:Set_Alaram_1	1
+../Core/Src/DS3231.c:116:15:Set_Alaram_2	1
